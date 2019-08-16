@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ramirez Seppe;Carlos;;;
+FN: Ramirez Seppe  Carlos 
+ORG:Mil Cinco;
+TITLE:Director
+EMAIL;type=INTERNET;type=WORK;type=pref:cmrs@grupoalleati.com
+TEL;type=WORK;type=VOICE:+595986663000
+item1.ADR;type=WORK;type=pref:;;Luis de Granada 1005 esq. Diagonal Molas. Complejo Arista, Local 4
+item1.X-ABADR:sg
+item2.URL;type=pref:milcinco.com.py
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
